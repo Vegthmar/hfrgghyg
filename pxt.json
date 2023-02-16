@@ -1,0 +1,25 @@
+{
+    "name": "hfrgghyg",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Fagots inc.": "github:pandaboi7622/fagots-inc#1119df4768de9bd0206abe9e6c0cc4ef6eb9681e"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.21",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
